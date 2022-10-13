@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @talhafiaz09
 - 👀 I’m interested in React, React Native, Next.js, Node.js, Mongo, Firebase, JavaScript, TypeScipt, RestAPI
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Next.js 
 - 📫 How to reach me Email: talhafiaz09@gmail.com
